@@ -1,0 +1,16 @@
+[paths]
+source =
+   src/atomicbot
+   */site-packages/atomicbot
+
+[run]
+branch = true
+source =
+    atomicbot
+    tests
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*
