@@ -20,25 +20,25 @@ Overview
     :target: https://readthedocs.org/projects/AtomicBot
     :alt: Documentation Status
 
-.. |travis| image:: https://travis-ci.org/amunak/AtomicBot.svg?branch=master
+.. |travis| image:: https://travis-ci.org/Amunak/AtomicBot.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/amunak/AtomicBot
+    :target: https://travis-ci.org/Amunak/AtomicBot
 
-.. |requires| image:: https://requires.io/github/amunak/AtomicBot/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/Amunak/AtomicBot/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/amunak/AtomicBot/requirements/?branch=master
+    :target: https://requires.io/github/Amunak/AtomicBot/requirements/?branch=master
 
-.. |codecov| image:: https://codecov.io/github/amunak/AtomicBot/coverage.svg?branch=master
+.. |codecov| image:: https://codecov.io/github/Amunak/AtomicBot/coverage.svg?branch=master
     :alt: Coverage Status
-    :target: https://codecov.io/github/amunak/AtomicBot
+    :target: https://codecov.io/github/Amunak/AtomicBot
 
 .. |version| image:: https://img.shields.io/pypi/v/atomicbot.svg
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/atomicbot
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/amunak/AtomicBot/v0.1.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/Amunak/AtomicBot/v0.1.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/amunak/AtomicBot/compare/v0.1.0...master
+    :target: https://github.com/Amunak/AtomicBot/compare/v0.1.0...master
 
 .. |wheel| image:: https://img.shields.io/pypi/wheel/atomicbot.svg
     :alt: PyPI Wheel
